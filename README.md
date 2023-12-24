@@ -1,1 +1,10 @@
-"# DS_VDB_Tests" 
+Repository for DreamScape: Denoising CLIP Embeddings with User Images for Improved Visualization Reconstruction.
+
+Read writeup for full description of project or presentation for abridged version.
+
+Dataset for experiments 6.1 and EEG data available at https://github.com/bbaaii/DreamDiffusion/.
+
+Dataset and pipeline for experiments 6.2 and fMRI data available at https://github.com/bbaaii/DreamDiffusion/.
+Replace the available utils.py and Retreivals.ipynb file under src with the modified versions we provide. Our utils.py is available here and you can download Retrievals.ipynb from https://drive.google.com/file/d/1ZQ6gHPWcPWvgWbQcYWnNKux0GwOpaZdX/view?usp=sharing
+
+The results of experiments 6.2 are available under the noisy_retrievals folder.
