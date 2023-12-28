@@ -1,6 +1,6 @@
 Repository for DreamScape: Denoising CLIP Embeddings with User Images for Improved Visualization Reconstruction.
 
-Read writeup for full description of project or presentation for abridged version. The vector database system is available in the file: DreamEmbeddings.ipynb.
+Read writeup for full description of project or presentation for an abridged description. The vector database system is available in the file: DreamEmbeddings.ipynb.
 
 Dataset for experiments 6.1 and EEG data available at https://github.com/bbaaii/DreamDiffusion/ and the DreamDiffusionST2 location model has a training file and weight file available.
 
